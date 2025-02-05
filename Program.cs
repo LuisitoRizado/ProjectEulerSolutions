@@ -7,3 +7,5 @@ Console.WriteLine(MultiplesOf3Or5.SumOfMultiplesBelow1000());
 Console.WriteLine(FibonacciNumber.PairNumbersSumInFibonacciSecuence());
 //3- Sum Square Difference
 Console.WriteLine(SumSquareDifference.CalculateSumSquareDifference(100));
+//3.- Largest Prime Factor
+Console.WriteLine(LargestPrimeFactor.LargestPrimeFactorInANumber(600851475143));
