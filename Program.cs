@@ -9,3 +9,5 @@ Console.WriteLine(FibonacciNumber.PairNumbersSumInFibonacciSecuence());
 Console.WriteLine(SumSquareDifference.CalculateSumSquareDifference(100));
 //3.- Largest Prime Factor
 Console.WriteLine(LargestPrimeFactor.LargestPrimeFactorInANumber(600851475143));
+//5.- Smalles Multiple
+Console.WriteLine(SmallestMultiple.SmallestEvenlyMultiple());
